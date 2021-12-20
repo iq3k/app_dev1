@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226381873169",
+    "firebase_url": "https://todolist1-56421-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "todolist1-56421",
+    "storage_bucket": "todolist1-56421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226381873169:android:da4da980e769f2b4a431b0",
+        "android_client_info": {
+          "package_name": "com.chitrung.to_dolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226381873169-7k6m2jijp7l4ihl4m31umj6ldd8u75uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoi-jAC8aL7RQ-yUGvMSqBG_INGphIkJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226381873169-7k6m2jijp7l4ihl4m31umj6ldd8u75uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
